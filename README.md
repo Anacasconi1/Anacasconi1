@@ -34,6 +34,9 @@
 
 ###
 
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHuYDKC6fwt_A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723502119257?e=1729123200&v=beta&t=FO1CDYB-wx6OMiAAPVh7QjmUEFGaDl7WMdDk0m-NF7Q" height="200" alt="personal banner">
+</div>
 <!--
 **Anacasconi1/Anacasconi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
