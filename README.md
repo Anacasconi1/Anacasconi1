@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Ana Sabrina Casconi y soy una desarrolladora Full-Stack, de Córdoba, Argentina.</p>
+<p align="left">Mi nombre es Ana Sabrina Casconi y soy una desarrolladora Full-Stack de Córdoba, Argentina.</p>
 
 ###
 
