@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Yo programo con:</h2>
+<h2 align="left">Yo programo en:</h2>
 
 ###
 
