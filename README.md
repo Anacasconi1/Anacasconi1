@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Comencé con a aprender programación en Enero de 2024 de manera autónoma.<br>📚 Actualmente estudio en el bootcamp de Henry.<br>🎯 Metas: Una vez que pueda ser parte de un equipo en el mundo del IT, quiero perfeccionar mis hard skills y en un futuro aprender nuevos lenguajes de programación, y por supuesto, con ello nuevas tecnologías. A su vez nuevos idiomas.<br>🎲 Pasatiempos: Me gusta crear indumentaria a partir de ropa usada y darle una segunda oportunidad.</p>
+<p align="left">✨ Comencé con a aprender programación en Enero de 2024 de manera autónoma.<br>📚 Recientemente graduada y actualmente me encuentro aprendiendo nuevas tecnologías.<br>🎯 Metas: Una vez que pueda ser parte de un equipo en el mundo del IT, quiero perfeccionar mis hard skills y en un futuro aprender nuevos lenguajes de programación, y por supuesto, con ello nuevas tecnologías. A su vez nuevos idiomas.<br>🎲 Pasatiempos: Me gusta crear indumentaria a partir de ropa usada y darle una segunda oportunidad.</p>
 
 ###
 
